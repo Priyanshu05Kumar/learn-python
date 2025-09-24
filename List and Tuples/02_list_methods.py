@@ -1,4 +1,6 @@
 # List are mutable means it can be change original list
+# String is immutable
+#Tuple is immutable data type in python i.e Cannot be changed
 friends = ["Apple","Orange",5,345.06,False,"Aakash","Rohan"]
 print(friends)
 

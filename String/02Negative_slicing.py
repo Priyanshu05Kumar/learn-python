@@ -10,4 +10,4 @@ print(name[1:]) # is same as print(name[1:5])
 print(name[1:5])
 
 word = "amazing"
-print(word[1:6:2])
+print(word[1:6:2]) #mzn
